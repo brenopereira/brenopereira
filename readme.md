@@ -10,4 +10,4 @@ Eu sou Breno Pereira, sou desenvolvedor fullstack 👨‍💻 trabalho com o eco
 - 💬 Pergunte-me sobre: tecnologia, filmes e um pouco sobre investimentos.
 -  ⚡ Tecnologias: React, Node, Adonis, React-Native, Laravel, CI e Docker.
 
-"O tempo livre é inimigo do seu progresso." 
+"O tempo livre é inimigo do progresso." 
