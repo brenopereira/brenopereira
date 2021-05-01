@@ -10,12 +10,11 @@ Eu sou Breno Pereira, sou desenvolvedor fullstack 👨‍💻 trabalho com o eco
 - 💬 Pergunte-me sobre: tecnologia, filmes e um pouco sobre investimentos.
 -  ⚡ Tecnologias: React, Node, Adonis, React-Native, Laravel, CI e Docker.
 
-"O tempo livre é inimigo do progresso." 
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=brenopereira&layout=compact&langs_count=16&theme=dracula
-
 ##
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenopereira&layout=compact&langs_count=16&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenopereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+##
+"O tempo livre é inimigo do progresso." 
