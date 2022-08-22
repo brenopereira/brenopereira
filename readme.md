@@ -5,7 +5,7 @@
 
 Eu sou Breno Pereira, sou desenvolvedor fullstack 👨‍💻 trabalho com o ecossistema JavaScript. 
 
-- 🔭 Atualmente, estou trabalhando na Linx, mas desenvolvo sistemas utilizando JavaScript, Typescript, Dart e Python.
+- 🔭 Atualmente, estou trabalhando na Gupy, mas desenvolvo sistemas utilizando JavaScript, Typescript, Dart e Python.
 - 🌱 Estou buscando sempre aprimorar os meus conhecimentos em DevOps, JS e TS.
 - 💬 Pergunte-me sobre: tecnologia, filmes e um pouco sobre investimentos.
 - ⚡ Tecnologias: Next, Nest, React, Node, Adonis, React-Native, Laravel, CI e Docker.
